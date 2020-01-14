@@ -31,5 +31,4 @@ Following training accuracy achieved With only 20 epochs:<br/>
 - Add more layers or more units for deeper understanding of data. <br/>
 
 # Contribution
-TODO and Implement parts in the notebook done by Ahmad Barqawi. <br/>
-Document strcure done by Udacity Team
+Shivam Gupta
