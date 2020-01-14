@@ -3,7 +3,7 @@ This notebook have different type of machine translation models starting from si
 
 The model trained on small data to translate from English language to French, it can be expanded to train on more data or translate other languages.
 
-This end-to-end machine translation pipeline delivered as final project for Udacity AI Nanodegree course.
+This end-to-end machine translation pipeline!
 # Setup
 
 ## Install
